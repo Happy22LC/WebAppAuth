@@ -1,0 +1,31 @@
+.error {
+    color: red;
+    font-size: 14px;
+    line-height: 0;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.input {
+    font-size: 18px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 1;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.click:hover {
+    background-color: rgb(31, 172, 31);
+    border-color: rgb(31, 172, 31);
+}
+
+.click {
+    width: 30%;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-align: center;
+}
